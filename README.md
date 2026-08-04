@@ -123,26 +123,6 @@ React Native
 
 ---
 
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/khushbupatel-fullstack">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="https://khushbu-portfolio-ivory.vercel.app/">
-
-<img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
-</p>
-
----
-
 # 💡 Motto
 
-> **"Write clean code. Build scalable systems. Never stop learning."**
+> **"Building scalable software with clean code, thoughtful architecture, and continuous learning."**
