@@ -1,15 +1,148 @@
-# 💫 About Me:
-# 👋 Hi, I'm Khushbu Patel<br><br>## 🚀 Senior Full Stack Developer | React.js | Next.js | React Native | Node.js<br><br>I'm a **Senior Full Stack Developer** with **8+ years of experience** building scalable, secure, and high-performance web and mobile applications. I enjoy transforming business ideas into production-ready software using modern JavaScript technologies and best engineering practices.<br><br>### 💻 What I Do<br><br>- ⚛️ Build modern web applications with **React.js**, **Next.js**, and **TypeScript**<br>- 📱 Develop cross-platform mobile apps using **React Native**<br>- 🔥 Create scalable backend services using **Node.js**, **Express.js**, and **REST APIs**<br>- 🗄️ Design databases using **MongoDB** and **PostgreSQL**<br>- 🔐 Implement secure authentication with **JWT**, **OAuth 2.0**, **OTP**, and **Cookie-based Authentication**<br>- 🚀 Deploy applications using **Docker**, **GitHub Actions**, **AWS S3**, and **Vercel**<br>- 🧪 Write unit and integration tests with **React Testing Library**<br>- 👨‍💻 Mentor developers through code reviews, architecture discussions, and best engineering practices<br><br>## 🛠️ Tech Stack<br><br>### Frontend<br>- React.js<br>- Next.js<br>- TypeScript<br>- JavaScript (ES6+)<br>- Redux Toolkit<br>- React Query (TanStack Query)<br>- Context API<br>- Tailwind CSS<br>- Material UI<br>- Bootstrap<br><br>### Mobile<br>- React Native<br><br>### Backend<br>- Node.js<br>- Express.js<br>- REST APIs<br><br>### Database<br>- MongoDB<br>- PostgreSQL<br>- Firebase<br><br>### DevOps & Tools<br>- Git<br>- GitHub<br>- GitHub Actions<br>- Docker<br>- AWS S3<br>- Vercel<br>- Postman<br><br>## 🌟 Experience Highlights<br><br>- ✅ Built scalable **E-commerce Platforms**<br>- ✅ Developed **AI-powered Multilingual Voice POS Systems**<br>- ✅ Created Enterprise Web & Mobile Applications<br>- ✅ Designed Secure Authentication Systems<br>- ✅ Optimized application performance using code splitting, lazy loading, and caching<br>- ✅ Built CI/CD pipelines with GitHub Actions<br>- ✅ Led frontend architecture and mentored development teams<br><br>## 🌱 Currently Exploring<br><br>- AI-powered SaaS Applications<br>- Advanced System Design<br>- Scalable Full Stack Architecture<br>- Cloud Infrastructure<br>- Performance Optimization<br>- Modern DevOps Practices<br><br>## 🎯 Career Goal<br><br>To build world-class SaaS products and AI-powered applications while contributing to scalable software architecture and delivering exceptional user experiences.<br><br>## 📫 Connect With Me<br><br>- 💼 LinkedIn: https://linkedin.com/in/khushbupatel-fullstack<br>- 🌐 Portfolio: https://yourportfolio.com<br><br>---<br><br>## 💡 Motto<br><br>> *"Write clean code, build scalable systems, and never stop learning."*
+<h1 align="center">Hi 👋, I'm Khushbu Patel</h1>
 
+<h3 align="center">
+Senior Full Stack Developer | React.js | Next.js | React Native | Node.js
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushbupatel-fullstack) 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Developer;React.js+%7C+Next.js+%7C+React+Native;Node.js+%7C+TypeScript;Building+Scalable+Web+%26+Mobile+Applications;Always+Learning+New+Technologies+🚀"/>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KhushbuDeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KhushbuDeveloper&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KhushbuDeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://linkedin.com/in/khushbupatel-fullstack">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://khushbu-portfolio-ivory.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=KhushbuDeveloper&style=for-the-badge&color=00C896"/>
+
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+I'm a **Senior Full Stack Developer** with **8+ years of experience** building scalable, secure, and high-performance web and mobile applications.
+
+I specialize in developing enterprise-grade solutions using modern JavaScript technologies, designing scalable architectures, creating REST APIs, and delivering exceptional user experiences.
+
+### What I Do
+
+- ⚛️ Build scalable web applications with React.js & Next.js
+- 📱 Develop cross-platform mobile apps using React Native
+- 🚀 Build secure REST APIs using Node.js & Express.js
+- 🗄 Design scalable databases with MongoDB & PostgreSQL
+- 🔐 Implement JWT, OAuth2 & OTP Authentication
+- ☁ Deploy applications using Docker, AWS, GitHub Actions & Vercel
+- 🧪 Write unit & integration tests
+- 👨‍💻 Mentor developers and review code
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,html,css"/>
+
+</p>
+
+### Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+React Native
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase"/>
+
+</p>
+
+### DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode,postman"/>
+
+</p>
+
+---
+
+# 💼 Professional Experience
+
+- ✅ 8+ Years of Professional Experience
+- ✅ Enterprise Web Applications
+- ✅ React Native Mobile Applications
+- ✅ AI Powered Voice POS Systems
+- ✅ REST API Development
+- ✅ Authentication & Authorization
+- ✅ Performance Optimization
+- ✅ CI/CD using GitHub Actions
+- ✅ Team Mentoring & Code Reviews
+
+---
+
+# 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://khushbu-portfolio-ivory.vercel.app/" target="_blank">
+
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="images/portfolio-preview.png" width="100%" alt="Portfolio Preview"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/khushbupatel-fullstack">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://khushbu-portfolio-ivory.vercel.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 Motto
+
+> **"Write clean code. Build scalable systems. Never stop learning."**
