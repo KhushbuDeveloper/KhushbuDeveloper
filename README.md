@@ -26,7 +26,7 @@ Senior Full Stack Developer | React.js | Next.js | React Native | Node.js
 
 # 👩‍💻 About Me
 
-I'm a **Senior Full Stack Developer** with **8+ years of experience** building scalable, secure, and high-performance web and mobile applications.
+I'm a **Senior Full Stack Developer** with **7+ years of experience** building scalable, secure, and high-performance web and mobile applications.
 
 I specialize in developing enterprise-grade solutions using modern JavaScript technologies, designing scalable architectures, creating REST APIs, and delivering exceptional user experiences.
 
